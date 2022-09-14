@@ -1,0 +1,40 @@
+
+    
+
+    .goods-item {
+    
+        width: 360px;
+        height: 400px;
+        text-align: center;
+        
+        background: #FFFFFF;
+        border: 2px solid black;
+    
+       
+        
+        display: flex;
+        flex-direction: column;
+    
+    }
+
+    .goods-list {
+        width: 1140px;
+        margin-left: 265px;
+        margin-top: 20px;
+        text-align: left;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .menu {
+        height: 30px;
+        border: 2px solid black;
+    }
+
+    .cart-button {
+        margin-left: 1600px;
+        margin-top: 5px;
+    }
+
+    
+    
